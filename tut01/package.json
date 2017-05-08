@@ -1,0 +1,17 @@
+{
+  "name": "tut01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src\\app.js",
+  "dependencies": {
+    "webpack": "^2.5.1"
+  },
+  "devDependencies": {
+    "webpack": "^2.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
